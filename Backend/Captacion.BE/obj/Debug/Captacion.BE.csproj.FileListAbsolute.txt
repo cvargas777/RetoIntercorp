@@ -1,0 +1,12 @@
+C:\Demo\Backend\RetoIBK\Captacion.BE\bin\Debug\Captacion.BE.dll
+C:\Demo\Backend\RetoIBK\Captacion.BE\bin\Debug\Captacion.BE.pdb
+C:\Demo\Backend\RetoIBK\Captacion.BE\obj\Debug\Captacion.BE.csprojAssemblyReference.cache
+C:\Demo\Backend\RetoIBK\Captacion.BE\obj\Debug\Captacion.BE.csproj.CoreCompileInputs.cache
+C:\Demo\Backend\RetoIBK\Captacion.BE\obj\Debug\Captacion.BE.dll
+C:\Demo\Backend\RetoIBK\Captacion.BE\obj\Debug\Captacion.BE.pdb
+D:\Api\Captacion.BE\bin\Debug\Captacion.BE.dll
+D:\Api\Captacion.BE\bin\Debug\Captacion.BE.pdb
+D:\Api\Captacion.BE\obj\Debug\Captacion.BE.csprojAssemblyReference.cache
+D:\Api\Captacion.BE\obj\Debug\Captacion.BE.csproj.CoreCompileInputs.cache
+D:\Api\Captacion.BE\obj\Debug\Captacion.BE.dll
+D:\Api\Captacion.BE\obj\Debug\Captacion.BE.pdb

@@ -1,0 +1,35 @@
+<h3>Listar Clientes</h3>
+<div class="row">
+    <form>
+        <div class="form-group">
+            <label>Promedio de Edades: <b>{{kpi.Promedio}}</b></label>
+        </div>
+        <div class="form-group">
+            <label>Desviación Estándar: <b>{{kpi.Desviacion}}</b></label>
+        </div>
+    </form>
+</div>
+<div class="row">
+    <form>
+        <table class="table">
+            <thead>
+                <tr>
+                <th scope="col">Nombre</th>
+                <th scope="col">Apellido</th>
+                <th scope="col">Edad</th>
+                <th scope="col">Fecha Nacimiento</th>
+                <th scope="col">Fecha Muerte</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let cliente of data">
+                    <td>{{cliente.Nombre}}</td>
+                    <td>{{cliente.Apellido}}</td>
+                    <td>{{cliente.Edad}}</td>
+                    <td>{{cliente.FechaNacimiento | date: 'dd/MM/yyyy'}}</td>
+                    <td>{{cliente.FechaMuerte | date: 'dd/MM/yyyy'}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+</div>
